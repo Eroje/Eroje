@@ -1,4 +1,4 @@
-Hi My name is Mojid Eroje, I'm a Front-End Web Developer and an IT Project Management Professional.
+Hi, My name is Mojid Eroje, I'm a Fullstack Web Developer and a Construction Project Manager.
 I love travelling, researching and learning new things.  
 
 <!---
